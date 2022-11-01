@@ -7,3 +7,4 @@ Upload wallpapers from your favorite shows!
   * SoulsBorne
   * The Last of Us
   * Yofukashi no Uta
+  * Chainsaw man
